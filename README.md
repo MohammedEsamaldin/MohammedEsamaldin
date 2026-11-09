@@ -19,7 +19,6 @@ BASE Fellow (AI Catastrophic Risk track) · Chevening Scholar · MSc Artificial 
 |---|---|
 | [**ZANOBIA / Socrates**](https://github.com/MohammedEsamaldin/Socrates) | MSc thesis. Socratic framework that detects and mitigates hallucinations in multimodal LLMs from both sides, with no retraining. Cut LLaVA-7B's hallucination rate on MMHal-Bench from 0.76 to 0.64. [Write-up](https://mohammedesamaldin.substack.com/p/its-not-there-zanobia-a-socratic) |
 | [**AI Safety Arabia**](https://github.com/MohammedEsamaldin/ai-safety-arabia) | Founding member of an Arabic-language AI safety education platform explaining misalignment and loss-of-control risks. |
-| [**AI safety funding map**](https://github.com/MohammedEsamaldin/ai-safety-funding-map) | A founder's map of the AI safety capital stack. |
 | [**Parts-identification chatbot**](https://github.com/MohammedEsamaldin/llama3_charbots) | Conversational parts lookup with GPT-4o classification, live retrieval and a local Llama 3 model. The production version won Digital Product of the Year at Automechanika Dubai 2024. |
 | [**Context-aware e-commerce search**](https://github.com/MohammedEsamaldin/Context-aware-Search-Engine-for-E-commerce) | Product search engine that captures user intent better than keyword matching. |
 
