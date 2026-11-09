@@ -10,7 +10,7 @@ BASE Fellow (AI Catastrophic Risk track) · Chevening Scholar · MSc Artificial 
 
 ### What I'm working on now
 
-- **Can optimisation geometry predict emergent misalignment?** (BASE Fellowship, mentor: Sultan Hassan). Reproducing narrow-fine-tuning emergent misalignment on small open-weight models and tracking loss-landscape geometry across checkpoints, to test whether it signals misalignment before behavioural evals do.
+- **Can optimisation geometry predict emergent misalignment?** (BASE Fellowship, mentor: Sultan Hassan). Reproducing narrow-fine-tuning emergent misalignment on small open-weight models and tracking loss-landscape geometry across checkpoints, to test whether it signals misalignment before behavioural evals do. First result: on Llama-3.2-1B, EM switches on suddenly at steps 15–20, and the candidate early-warning signals disappear once matched controls are used. → [**emergent-misalignment-onset**](https://github.com/MohammedEsamaldin/emergent-misalignment-onset)
 - **Attributing goal drift in LLM agents from internal representations.** A testbed that produces three causes of goal drift (interference, inherited drifted trajectory, backdoored goal substitution), matched on behaviour, to test whether the internals of Llama-3.1-8B and Qwen3-14B can tell them apart.
 
 ### Selected projects
